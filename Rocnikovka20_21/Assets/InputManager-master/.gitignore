@@ -1,0 +1,30 @@
+#Junk folders
+Library/*
+Temp/*
+Assets/Tests/*
+Assets/Tests*
+Assets/Local/*
+Assets/Local*
+JoystickMappings/*
+Build/*
+Assets/UnityVS*
+obj/*
+.vs/*
+
+#Junk files
+Assets/Tests.meta
+Assembly-CSharp*
+Assembly-UnityScript*
+Assembly-Boo*
+*.sln
+*.suo
+*.csproj
+*.userprefs
+*.usertasks
+*.orig.meta
+*.orig
+*.pfx
+*.pfx.meta
+*.keystore
+Plan.txt
+Plan.txt.meta
